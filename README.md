@@ -1,7 +1,7 @@
 [logo]: https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-192.png "MTG North"
-<span style="text-align:center; max-height:80px;">
-    ![alt text][logo]
-</span>
+<p align="center">
+    <img src="https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-192.png" />
+</p>
 
 # MTG North (app.mtgnorth)
 Magic the gathering application for deck building, inventory, and buylist management.
