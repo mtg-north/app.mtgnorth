@@ -1,4 +1,4 @@
-[logo]: https://github.com/mtg-north/app.mtgnorth/images/logo2-192.png "MTG North"
+[logo]: https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-192.png "MTG North"
 
 ![alt text][logo]
 
