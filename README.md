@@ -1,6 +1,6 @@
-[logo]: https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-192.png "MTG North"
+[logo]: https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-98.png "MTG North"
 <p align="center">
-    <img src="https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-192.png" />
+    <img src="https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-98.png" />
 </p>
 
 # MTG North (app.mtgnorth)
