@@ -3,7 +3,9 @@
     <img src="https://github.com/mtg-north/app.mtgnorth/blob/master/images/logo2-98.png" />
 </p>
 
-<p style="padding-bottom: 0.3em; font-size: 2em; border-bottom: 1px solid #eaecef; text-align:center">MTG North</p>
+<p align="center">
+    <h1>MTG North</h1>
+</p>
 
 Magic the gathering application for deck building, inventory, and buylist management.
 Created by Garrett Culos
